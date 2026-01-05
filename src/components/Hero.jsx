@@ -1,4 +1,5 @@
 import profileImg from "../assets/portfolio-img.jpg";
+import resumePdf from "../assets/PRATIKSHA_DHAKULKAR_CV.pdf";
 
 export default function Hero() {
   return (
@@ -31,7 +32,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/Vaishnavi_Khadatkar_CV.pdf"
+              href={resumePdf}
               download
               className="px-6 py-3 rounded-xl border border-white/20 text-white hover:bg-white/10 transition"
             >
