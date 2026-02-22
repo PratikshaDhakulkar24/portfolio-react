@@ -48,7 +48,7 @@ export default function Internship() {
               🏢 Giris Tech Hub Pvt. Ltd
             </h4>
             <h4 className="text-lg text-gray-300 mb-1">
-              🗓️ June 2025 – Dec 2025
+              🗓️ Dec 2025 - CURRENT
             </h4>
             <h4 className="text-lg text-gray-300 mb-4">📍 Pune, Maharashtra</h4>
 
